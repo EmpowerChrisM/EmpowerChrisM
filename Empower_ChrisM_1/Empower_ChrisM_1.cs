@@ -80,6 +80,7 @@ namespace Empower_ChrisM_1
 
 			var order = OrderFactory.CreateOrder("Order 66");
 			order.Dispatch("Chris Mietz");
+//test
 		}
 	}
 }
