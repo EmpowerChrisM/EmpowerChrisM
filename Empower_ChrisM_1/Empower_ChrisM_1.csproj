@@ -53,10 +53,10 @@
       <Version>1.1.0.2</Version>
     </PackageReference>
     <PackageReference Include="Skyline.DataMiner.Dev.Automation">
-      <Version>10.1.0.6</Version>
+      <Version>10.3.3.1</Version>
     </PackageReference>
     <PackageReference Include="Skyline.DataMiner.Empower.Library.Room1">
-      <Version>1.0.4</Version>
+      <Version>1.0.5</Version>
     </PackageReference>
     <PackageReference Include="StyleCop.Analyzers">
       <Version>1.1.118</Version>
@@ -67,7 +67,7 @@
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <ProjectExtensions>
     <VisualStudio>
-      <UserProperties DisLinkId="1" DisProjectType="automationScriptProject" DisLinkedXmlFile="..\Empower_ChrisM.xml" />
+      <UserProperties DisLinkedXmlFile="..\Empower_ChrisM.xml" DisProjectType="automationScriptProject" DisLinkId="1" />
     </VisualStudio>
   </ProjectExtensions>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
